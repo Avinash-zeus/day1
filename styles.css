@@ -58,6 +58,6 @@ textarea {
     overflow-y: scroll;
 }
 
-#male.focus {
-    outline: #000000;
+.custom-radio:focus {
+    outline: 2px solid #964646;
 }
